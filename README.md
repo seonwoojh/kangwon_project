@@ -3,7 +3,7 @@
 
 
 
-[ppt 링크](https://github.com/seonwoojh/kangwon_project/blob/main/%ED%83%90%EC%83%89%EC%A0%81%20%EC%9E%90%EB%A3%8C%EB%B6%84%EC%84%9D_%ED%8C%80%EA%B3%BC%EC%A0%9C%202_1%EC%A1%B0.pdf)
+[🙋‍♀️ppt 확인하기](https://github.com/seonwoojh/kangwon_project/blob/main/%ED%83%90%EC%83%89%EC%A0%81%20%EC%9E%90%EB%A3%8C%EB%B6%84%EC%84%9D_%ED%8C%80%EA%B3%BC%EC%A0%9C%202_1%EC%A1%B0.pdf)
 
 
 ### 2. 데이터 설명서
