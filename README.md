@@ -1,9 +1,14 @@
 # 2021 탐색적 자료분석 및 실습 조별과제
 
-<center><데이터 설명서></center>
 
 
-탐색적 자료분석 1조
+
+
+
+
+2. 데이터 설명서
+
+---
 
 □ 원데이터 설명
 
@@ -14,17 +19,15 @@
 주요관광지점 입장객
 : 16년 1월 ~ 20년 12월
 
+---
 
 □ 제출데이터 정보
 
-구분
-파일명
-1
-Train_data.csv
-2
-Travel_data.xlsx
-3
-Total_data.csv
+|구분|파일명|
+|---|------|
+|1|Train_data.csv|
+|2|Travel_data.xlsx|
+|3|Total_data.csv|
 
 
 □ 데이터 변수명
